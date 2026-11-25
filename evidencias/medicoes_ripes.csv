@@ -1,0 +1,12 @@
+cenario,algoritmo,modelo_cpu,instrucoes_aposentadas,ciclos,CPI
+n008_fim,binaria,,,,
+n008_fim,sequencial,,,,
+n008_inicio,binaria,,,,
+n008_inicio,sequencial,,,,
+n032_fim,binaria,,,,
+n032_fim,sequencial,,,,
+n128_ausente,binaria,,,,
+n128_ausente,sequencial,,,,
+n128_fim,binaria,Single Cycle RV32I,108,108,1
+n128_fim,sequencial,Single Cycle RV32I,908,908,1
+main_14_casos,ambos,Single Cycle RV32I,4646,4646,1

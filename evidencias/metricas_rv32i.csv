@@ -1,0 +1,11 @@
+cenario,algoritmo,indice,elementos_examinados,instrucoes_rotina,instrucoes_programa,leituras_rotina,desvios_condicionais_rotina
+n008_fim,binaria,7,4,51,60,4,11
+n008_fim,sequencial,7,8,59,68,8,16
+n008_inicio,binaria,0,3,39,48,3,8
+n008_inicio,sequencial,0,1,10,19,1,2
+n032_fim,binaria,31,6,75,84,6,17
+n032_fim,sequencial,31,32,227,236,32,64
+n128_ausente,binaria,-1,8,103,112,8,25
+n128_ausente,sequencial,-1,128,903,912,128,257
+n128_fim,binaria,127,8,99,108,8,23
+n128_fim,sequencial,127,128,899,908,128,256
